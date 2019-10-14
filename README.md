@@ -44,7 +44,7 @@ sensor N
  
 ## Diagram of Setup
 ![GarageDoorStatusDiagram](images/GarageDoorStatusDiagram.png)
-![GarageDoorStatusBuild](images/GarageDoorStatusBuild.png)
+![GarageDoorStatusBuild](images/GarageDoorStatusBuild.PNG)
 
 ## Electronic Parts:
 
