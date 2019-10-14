@@ -43,7 +43,7 @@ sensor N
  replace flask_web_server_ip (and port) with the IP address (and port) of the beaglebone running flask web server
  
 ## Diagram of Setup
-![GarageDoorStatusDiagram](images/GarageDoorStatusDiagram.png.jpg)
+![GarageDoorStatusDiagram](images/GarageDoorStatusDiagram.png.png)
 ![GarageDoorStatusBuild](images\GarageDoorStatusBuild.jpg)
 
 ## Electronic Parts:
